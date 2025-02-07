@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\UdemyAuthService.API\UdemyAuthService.Core\bin\Debug\net6.0\UdemyAuthService.Core.deps.json
+C:\Users\pc\source\repos\UdemyAuthService.API\UdemyAuthService.Core\bin\Debug\net6.0\UdemyAuthService.Core.dll
+C:\Users\pc\source\repos\UdemyAuthService.API\UdemyAuthService.Core\bin\Debug\net6.0\UdemyAuthService.Core.pdb
+C:\Users\pc\source\repos\UdemyAuthService.API\UdemyAuthService.Core\bin\Debug\net6.0\SharedLibrary.dll
+C:\Users\pc\source\repos\UdemyAuthService.API\UdemyAuthService.Core\bin\Debug\net6.0\SharedLibrary.pdb
+C:\Users\pc\source\repos\UdemyAuthService.API\UdemyAuthService.Core\obj\Debug\net6.0\UdemyAuthService.Core.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\UdemyAuthService.API\UdemyAuthService.Core\obj\Debug\net6.0\UdemyAuthService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\UdemyAuthService.API\UdemyAuthService.Core\obj\Debug\net6.0\UdemyAuthService.Core.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\UdemyAuthService.API\UdemyAuthService.Core\obj\Debug\net6.0\UdemyAuthService.Core.AssemblyInfo.cs
+C:\Users\pc\source\repos\UdemyAuthService.API\UdemyAuthService.Core\obj\Debug\net6.0\UdemyAuthService.Core.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\UdemyAuthService.API\UdemyAuthService.Core\obj\Debug\net6.0\UdemyAut.3921E6D0.Up2Date
+C:\Users\pc\source\repos\UdemyAuthService.API\UdemyAuthService.Core\obj\Debug\net6.0\UdemyAuthService.Core.dll
+C:\Users\pc\source\repos\UdemyAuthService.API\UdemyAuthService.Core\obj\Debug\net6.0\refint\UdemyAuthService.Core.dll
+C:\Users\pc\source\repos\UdemyAuthService.API\UdemyAuthService.Core\obj\Debug\net6.0\UdemyAuthService.Core.pdb
+C:\Users\pc\source\repos\UdemyAuthService.API\UdemyAuthService.Core\obj\Debug\net6.0\ref\UdemyAuthService.Core.dll
